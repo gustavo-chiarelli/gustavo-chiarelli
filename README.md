@@ -2,7 +2,7 @@
 
 ## Gustavo Chiarelli
 
-- 💻 Desenvolvedor Full Stack, formado pela **Recode Pro 2020**;
+- 💻 Desenvolvedor Full Stack;
 - ❤️ Apaixonado por tecnologia;
 - 📍   Rio de Janeiro/RJ | Brasil.
 
